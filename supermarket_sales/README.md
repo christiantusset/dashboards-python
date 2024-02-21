@@ -1,8 +1,8 @@
-![3](/assets/dash.png)
+![Dash](https://github.com/christiantusset/dashboards-python/blob/master/supermarket_sales/assets/dash.png?raw=true)
 
 # Dashboard Sales Supermarket
 
-Este é um projeto de um Dashboard que faz a leitura de um .CSV para análise de vendas se uma rede de Supermercados.
+Este é um projeto de um Dashboard que faz a leitura de um .CSV para análise de vendas de uma rede de Supermercados.
 
 ## Run
 
