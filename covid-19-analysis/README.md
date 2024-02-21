@@ -1,4 +1,4 @@
-![2](/assets/dash.png)
+![2](https://github.com/christiantusset/dashboards-python/blob/master/covid-19-analysis/assets/dash.png?raw=true)
 
 
 # Dashb para Análise de dados da Covid-19
