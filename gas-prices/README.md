@@ -1,6 +1,6 @@
-![PROJETO GASOLINA_site_roxo](/assets/dash.png)
+![Gas_Prices](https://github.com/christiantusset/dashboards-python/blob/master/gas-prices-dash/assets/dash.png?raw=true)
 
-# Gas Prices Dash
+# Gas Prices
 
 Dashboard para análise dos preços da gasolina no Brasil (2004-2021) feito com Python.
 
