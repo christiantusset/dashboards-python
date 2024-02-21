@@ -1,4 +1,4 @@
-![Gas_Prices](https://github.com/christiantusset/dashboards-python/blob/master/gas-prices-dash/assets/dash.png?raw=true)
+![Gas_Prices](https://github.com/christiantusset/dashboards-python/blob/master/gas-prices/assets/dash.png?raw=true)
 
 # Gas Prices
 

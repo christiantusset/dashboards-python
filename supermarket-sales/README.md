@@ -1,4 +1,4 @@
-![Dash](https://github.com/christiantusset/dashboards-python/blob/master/supermarket_sales/assets/dash.png?raw=true)
+![Dash](https://github.com/christiantusset/dashboards-python/blob/master/supermarket-sales/assets/dash.png?raw=true)
 
 # Dashboard Sales Supermarket
 
